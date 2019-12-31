@@ -3,11 +3,8 @@ module.exports = {
   siteMetadata: {
     title: `Schrodinger's Cube`,
     author: `Chunlok Lo`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      // twitter: `kylemathews`,
-    },
+    description: `A place for thought experiments`,
+    siteUrl: `https://chunloklo.github.io/schrodingers-cube/`,
   },
   plugins: [
     {
@@ -64,7 +61,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-pic.jpg`,
       },
     },
     `gatsby-plugin-offline`,
