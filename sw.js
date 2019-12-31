@@ -39,14 +39,14 @@ self.__precacheManifest = [
     "url": "commons-a2f6637c836a9d1b141a.js"
   },
   {
-    "url": "app-7f6ee34a0a0199ef5a2d.js"
+    "url": "app-2b1096f41668a277afb1.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-328a2b7c20aa4ad52a6f.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "4abf01173e064bd55e8b5b2118960fdd"
+    "revision": "2833b207bd8dc57bd9d872b521f8241e"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "f4a799899f3f09dccc93c910903d688a"
+    "revision": "eb5b2f8d7fac7b5a0976aeedd9a8636b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -147,7 +147,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/schrodingers-cube/app-7f6ee34a0a0199ef5a2d.js`))) {
+  if (!resources || !(await caches.match(`/schrodingers-cube/app-2b1096f41668a277afb1.js`))) {
     return await fetch(event.request)
   }
 
