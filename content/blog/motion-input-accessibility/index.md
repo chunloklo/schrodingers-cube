@@ -1,7 +1,7 @@
 ---
 title: What's Wrong with Motion Inputs?
 date: "2020-08-16T22:40:32.169Z"
-description: My attempt at analyzing why motion inputs is frustrating
+description: My attempt at analyzing the problems with motion input
 ---
 
 ## Preface
