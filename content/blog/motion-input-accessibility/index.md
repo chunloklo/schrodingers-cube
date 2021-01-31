@@ -46,6 +46,7 @@ One underappreciated fact is just how many ways you can not get a special move w
 1. You could press punch too early, when joystick was at diagonal instead of forward
 1. You could do the motion too slowly
 1. You could start at down-forward instead of down
+1. You could overshoot forward and end in up-forward instead
 1. You could not move the joystick all the way forward (missing the forward input)
 1. You could skip the diagonal direction when doing the motion
 1. You could have been moving forward before, so you got dragon punch instead
@@ -62,7 +63,7 @@ Now, imagine you're a beginner playing your first fighting game. You have just s
 3. Jumping punch
 4. Shoryuken!
 
-Given one of the four outcomes, can you figure out what you did wrong? From experience, if you got Shoryuken, then you might have been moving forward before and didn't move your stick back to neutral before doing the motion. If you got crouching punch, you might have pressed punch too early, or forgot to go all the way forward. If you instead got jumping punch, it's likely that you either pressed punch too late, maybe you just missed a direction, or you did the motion too slowly. Either way you should clean up your inputs. If you got a standing punch? Well, I'll have to see your input history first.
+Given one of the four outcomes, can you figure out what you did wrong? From experience, if you got jumping punch, you overshot the forward direction and ended in up-forward. If you got Shoryuken, then you might have been moving forward before and didn't move your stick back to neutral before doing the motion. If you got crouching punch, you might have pressed punch too early, or forgot to go all the way forward. If you got standing punch? Well, I'll have to see your input history first.
 
 Do you see the challenge there? There is really no clear way of correcting yourself given the wrong outcome unless you have access to the input history. In FPSs, if you missed a shot, your aim was off and you can tell how off you were instantly. In League of Legends, if you missed a last hit, you either attacked the minion too early (shown by the minion not dying to your auto-attack), or attacked too late (minion already died by the time the auto-attack reached). In fighting games though, there are so many different ways to mess up doing a fireball and none of the results give you a clear answer on how you messed up. This means that when you mess up a special move during a match, you would have no idea why and no way of correcting it. Of course people get frustrated. I get frustrated, my friend get frustrated, and we have several hundreds of hours in fighting games and get these moves A LOT more consistently than a beginner will.
 
