@@ -1,7 +1,7 @@
 ---
 title: New Experiment
 date: "2019-12-28T22:40:32.169Z"
-description: Hello again!
+description: Hello again! Check out my previous blog posts
 ---
 
 Hello!
