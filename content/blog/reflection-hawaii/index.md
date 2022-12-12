@@ -43,7 +43,10 @@ I think that's why I have these bouts of time where I take videos and pictures o
 
 I think that is all an illusion though. All these records that we chose to capture, to put a glimpse into the past, those are also imperfect. You can never truly capture the experience that you have had, and you can never really relive that experience again. Time passes, new memory forms, and old ones becomes faded and often discarded. No matter how magical I feel at that moment, no matter how brilliant the sun seemed, and how majestic the wave looked at that moment, we can never quite remember and relive that exact moment. And when time has passed long enough, even staring upon these captured images and videos of the past will not bring up the same feelings in you as the moment you have experience it. 
 
-![hawaii pic](./image15.jpg)
+<figure>
+  <img src="./grid3.jpg">
+  <figcaption align="center"><i>Pictures from my family trip to O'ahu in 2003 and 2011. Do I remember eating that plate of shrimps, or visiting Diamond Head during those trips? Nope.</i></figcaption>
+</figure>
 
 So if that's the case, why experience at all? I don't think I have an answer to that quite yet. To make peace with this fear will likely require discarding this notion of that the you can even remember anything in the first place. If you give that up, then is there a point to traveling at all in the first place? What's the goal? To see the world that you'll eventually forget anyways? To try to bypass this impermanence and create unforgettable memories? One experiences life, experiences time, but what makes any of this meaningful? 
 
